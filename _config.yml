@@ -1,0 +1,14 @@
+layout_spectrum: 0.4731471
+typography_spectrum: 0.3786251
+color:
+  saturation: 0.2292572
+  lightness: 0.4441839
+  brandStrength: 0.2209389
+  brandColors:
+    - '#FFFFFF'
+    - '#FC9932'
+    - '#FF7510'
+    - '#D8D8D8'
+    - '#DAB27F'
+  rhythmicContrast: 0.3292159
+name: Earsight Design
