@@ -1,16 +1,28 @@
-typography_spectrum: 0.9634833827149123
+title: Food is life
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8110477481968701
-  lightness: 0.7918860819190741
   brandStrength: 0.4278843479696661
+  rhythmicContrast: 0.1817291229963303
   brandColors:
     - '#E7E8D1'
     - '#D3CEAA'
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-  rhythmicContrast: 0.18172912299633026
-layout_spectrum: 0.20177262998186052
-name: Good Ailments
-title: Food is life
+  lightness: 0.7918860819190741
+typography_spectrum: 0.9634833827149123
 description: eat well
+layout_spectrum: 0.5558539
+name: Good Ailments
