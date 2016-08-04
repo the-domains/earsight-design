@@ -12,16 +12,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8110477481968701
+  saturation: 0
   brandStrength: 0.4278843479696661
-  rhythmicContrast: 0.1817291229963303
+  lightness: 0.7918861
   brandColors:
     - '#E7E8D1'
     - '#D3CEAA'
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-  lightness: 0.7918860819190741
+  rhythmicContrast: 0.3012889
 typography_spectrum: 0.9634833827149123
 description: eat well
 layout_spectrum: 0.5558539
